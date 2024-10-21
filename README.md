@@ -16,7 +16,7 @@ MongoDB (for the database)
 Git</p
 
 <h4>Clone the repository:</h4>
-<p>git clone https://github.com/your-username/job-finder-bot.git cd job-finder-bot](https://github.com/rohan1919-byte/open-source-team-ank.git</p>
+<p>git clone https://github.com/rohan1919-byte/open-source-team-ank.git</p>
 
 <h4>Install dependencies:</h4>
 <p> npm install</p>
