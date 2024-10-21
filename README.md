@@ -16,14 +16,16 @@ MongoDB (for the database)
 Git</p
 
 <h4>Clone the repository:</h4>
-<p>git clone https://github.com/your-username/job-finder-bot.git
-cd job-finder-bot</p>
+<p>git clone https://github.com/your-username/job-finder-bot.git cd job-finder-bot](https://github.com/rohan1919-byte/open-source-team-ank.git</p>
+
 <h4>Install dependencies:</h4>
 <p> npm install</p>
+
 <h4>Set up environment variables: Create a .env file in the root directory and add your configuration:</h4>
 <p>MONGO_URI=<Your MongoDB URI>
 AI_API_KEY=<Your AI API Key>
 PORT=5000</p>
+  
 <h4>Start the development server:</h4>
 <p>npm run dev</p>
 
